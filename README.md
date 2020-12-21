@@ -49,3 +49,5 @@ All processing is done in Python (v. 3.8.) using [Jupyter Notebooks](https://jup
 
 3. WordCloud resulting image:
    ![wordcloud.png](wordcloud.png)
+
+4. Final project report: [`PDF`](Project_Report.pdf)
