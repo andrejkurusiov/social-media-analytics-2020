@@ -51,3 +51,5 @@ All processing is done in Python (v. 3.8.) using [Jupyter Notebooks](https://jup
    ![wordcloud.png](wordcloud.png)
 
 4. Final project report: [`PDF`](Project_Report.pdf)
+
+5. <a href="https://openbadgepassport.com/app/badge/info/297894/"><img src="https://openbadgepassport.com/file/e/2/3/0/e23065407f2441fc580aa722fdacb050d6833a31e11e219393eb2c8e4d07fdf8.png" width="78" height="78" alt="badge"/></a>
